@@ -41,7 +41,7 @@ Também tenho experiência com front-end (TypeScript) e mobile (Kotlin e Swift),
 
 <div align="center">
 
-![Linguagens do VN](https://github-readme-stats-gubhyzfy2-victor-neves-projects-f6e3ad66.vercel.app/api/top-langs/?username=McPlayerV2&count_private=true&include_all_commits=true)
+![Linguagens do VN](https://github-readme-stats-tjsx-hgytghdsu.vercel.app/api/top-langs/?username=McPlayerV2&layout=compact&count_private=true&include_all_commits=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=McPlayerV2&show_icons=true&count_private=true&include_all_commits=true)
 

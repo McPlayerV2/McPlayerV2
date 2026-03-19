@@ -19,7 +19,7 @@ Também tenho experiência com front-end (TypeScript) e mobile (Kotlin e Swift),
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center">
 

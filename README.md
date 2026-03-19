@@ -1,78 +1,94 @@
-# 👋 Fala aí, eu sou o Victor Neves
+# Victor Neves
 
-💻 Backend Developer focado em APIs, integrações e automação  
-🤖 Trabalhando com IA aplicada (agentes, MCPs, automações)  
-⚙️ Stack principal: Node.js, PHP, SQL  
+Backend Developer focado em **APIs, integrações, automação e IA aplicada**.  
+Construo soluções conectadas a sistemas reais, com experiência em **webhooks, serviços externos, fluxos automatizados e sistemas bancários**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYkznYKA2RVyCTSZkJAkL6w%3D%3D)
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)]()
-
----
-
-## 🚀 Sobre mim
-
-Trabalho construindo APIs, integrações com serviços externos e sistemas bancários, além de lidar bastante com webhooks e automação de processos.
-
-Nos últimos tempos tenho focado bastante em IA aplicada — criando agentes, MCPs e automações integradas com sistemas reais, sempre tentando resolver problemas de forma prática.
-
-Também tenho experiência com front-end (TypeScript) e mobile (Kotlin e Swift), o que me ajuda a ter uma visão mais completa dos projetos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://seusite.com)
 
 ---
 
-## 🧠 Stack
+## Estatísticas
 
-### 🔹 Backend
+<div align="center">
+
+![GitHub stats](https://github-readme-stats-tjsx.vercel.app/api?username=McPlayerV2&show_icons=true&count_private=true&include_all_commits=true&normal_rank=true&cache_seconds=60)
+![GitHub Streak](https://streak-stats.demolab.com?user=McPlayerV2&cache_seconds=60)
+![Linguagens do VN](https://github-readme-stats-tjsx.vercel.app/api/top-langs/?username=McPlayerV2&layout=compact&count_private=true&include_all_commits=true)
+
+</div>
+
+---
+
+## Sobre mim
+
+Atuo principalmente no desenvolvimento de **back-end**, criando APIs, integrações e automações que resolvem problemas reais de negócio.
+
+Tenho experiência com:
+- integração com serviços externos
+- processamento via webhooks
+- fluxos automatizados
+- sistemas bancários
+- IA aplicada com agentes, MCPs e automações
+
+Também transito por **front-end e mobile**, o que me ajuda a entender melhor o produto como um todo e construir soluções mais completas.
+
+---
+
+## Stack principal
+
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
 
-### 🔹 Front-end
+### Front-end
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-### 🔹 Mobile
+### Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
 ![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift)
 
-### 🔹 IA & Automação
+### IA e automação
 ![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-000?style=for-the-badge)
 ![Agents](https://img.shields.io/badge/AI_Agents-000?style=for-the-badge)
 
 ---
 
-## 📊 Estatísticas
+## Projetos em destaque
 
-<div align="center">
+### Nome do Projeto
+Breve descrição objetiva do projeto, explicando:
+- qual problema resolve
+- quais tecnologias usa
+- qual foi sua responsabilidade
+- link do repositório/demo
 
-![Linguagens do VN](https://github-readme-stats-tjsx.vercel.app/api/top-langs/?username=McPlayerV2&layout=compact&count_private=true&include_all_commits=true)
+### Nome do Projeto
+Breve descrição objetiva do projeto, explicando:
+- qual problema resolve
+- quais tecnologias usa
+- diferencial técnico
 
-![GitHub stats](https://github-readme-stats-tjsx.vercel.app/api?username=McPlayerV2&show_icons=true&count_private=true&include_all_commits=true&normal_rank=true&cache_seconds=60)
-![GitHub Streak](https://streak-stats.demolab.com?user=McPlayerV2&cache_seconds=60)
-
-</div>
-
----
-
-## 🔥 O que eu curto fazer
-
-- Construir APIs e integrações que realmente funcionam  
-- Automatizar processos e reduzir trabalho manual  
-- Criar agentes de IA conectados com sistemas reais  
-- Resolver problemas complexos de forma simples  
-
----
-
-## 📌 Foco atual
-
-- Backend + Integrações  
-- IA aplicada (Agentes, MCPs, automação)  
-- Sistemas escaláveis e bem organizados  
+### Nome do Projeto
+Breve descrição objetiva do projeto, explicando:
+- integração
+- automação
+- uso de IA, se houver
 
 ---
 
-## 🤝 Bora trocar ideia?
+## Foco atual
 
-Se quiser falar sobre backend, integrações ou IA, só chamar 🚀
+- APIs e integrações
+- automação de processos
+- agentes de IA e MCPs
+- sistemas escaláveis e organizados
 
-- LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)  
+---
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)
 - Site: [seusite.com](https://seusite.com)

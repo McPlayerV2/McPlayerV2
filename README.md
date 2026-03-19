@@ -4,6 +4,9 @@
 🤖 Trabalhando com IA aplicada (agentes, MCPs, automações)  
 ⚙️ Stack principal: Node.js, PHP, SQL  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYkznYKA2RVyCTSZkJAkL6w%3D%3D)
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)]()
+
 ---
 
 ## 🚀 Sobre mim
@@ -71,3 +74,6 @@ Também tenho experiência com front-end (TypeScript) e mobile (Kotlin e Swift),
 ## 🤝 Bora trocar ideia?
 
 Se quiser falar sobre backend, integrações ou IA, só chamar 🚀
+
+- LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)  
+- Site: [seusite.com](https://seusite.com)

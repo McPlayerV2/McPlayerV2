@@ -1,46 +1,50 @@
-# Victor Neves
+<p align="center">
+  <img src="assets/banner.svg" alt="Victor Neves — desenvolvedor backend T-shaped e IA aplicada" width="100%">
+</p>
 
-Desenvolvedor backend (T-shaped). Faço APIs, integrações bancárias e webhooks em NestJS e PHP, e hoje trabalho principalmente com **IA aplicada**: agentes, MCPs e automações ligadas a sistemas reais. Também entrego front-end, mobile (Kotlin e Swift) e 3D na web.
+<p align="center">
+  Construo APIs, integrações bancárias e webhooks, e hoje trabalho principalmente com <b>IA aplicada</b>:<br>
+  agentes, MCPs e automações ligadas a sistemas reais. Também faço front-end, mobile e 3D na web.
+</p>
 
-![Meu portfólio: um quarto de 1985 em 3D com um computador que liga](assets/portfolio.webp)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,php,mysql,postgres,mongodb,docker,react,nextjs,kotlin,swift,threejs,python&theme=dark&perline=14" alt="TypeScript, Node.js, NestJS, PHP, MySQL, PostgreSQL, MongoDB, Docker, React, Next.js, Kotlin, Swift, Three.js, Python">
+</p>
 
-## O que eu tenho feito
+<h3 align="center">Projetos</h3>
 
-Quase todo o meu código é privado (produtos da empresa e projetos pessoais em andamento), então este resumo faz o papel dos repositórios.
+<p align="center"><sub>Quase todo o meu código é privado, então estes cartões fazem o papel dos repositórios.</sub></p>
 
-### No trabalho
+<p align="center">
+  <img src="assets/card-luna.svg" alt="Luna" width="49%">
+  <img src="assets/card-trama.svg" alt="Trama" width="49%">
+</p>
+<p align="center">
+  <img src="assets/card-cadastro-ia.svg" alt="Cadastro por WhatsApp" width="49%">
+  <img src="assets/card-loteamentos.svg" alt="Gestão de loteamentos" width="49%">
+</p>
+<p align="center">
+  <img src="assets/card-lumora.svg" alt="Lumora" width="49%">
+  <img src="assets/card-watts.svg" alt="Watts" width="49%">
+</p>
+<p align="center">
+  <img src="assets/card-portfolio.svg" alt="Portfólio 3D" width="49%">
+  <a href="https://3d.yachtresidence.com.br/"><img src="assets/card-residencial.svg" alt="Residencial em 3D" width="49%"></a>
+</p>
+<p align="center">
+  <img src="assets/card-sulco.svg" alt="Sulco" width="49%">
+  <img src="assets/card-devdesk.svg" alt="DevDesk" width="49%">
+</p>
 
-- **Gestão de loteamentos:** APIs, integrações bancárias e webhooks de um sistema web e mobile (PHP, NestJS, SQL).
-- **Cadastro por WhatsApp com IA:** a pessoa manda mensagem, foto ou PDF do documento e a IA extrai os dados e cria o cadastro no sistema (NestJS, OpenAI, MongoDB). Backend feito em equipe.
-- **Apresentação 3D de um residencial:** a torre, os andares e os apartamentos no navegador, com AR e VR (Three.js, WebXR). No ar em [3d.yachtresidence.com.br](https://3d.yachtresidence.com.br/).
+<h3 align="center">Atividade</h3>
 
-### Projetos pessoais
+<p align="center"><sub>Os números incluem as contribuições em repositórios privados.</sub></p>
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| **Luna** | Assistente pessoal por voz: app Android que conversa com um servidor próprio, com memória, lembretes e um modo dev | Kotlin, Python, Whisper, Claude |
-| **Trama** | Painel que transforma um enredo em série animada em capítulos, com roteiro, arte, voz e trilha feitos por IA | JavaScript, Electron, IAs locais |
-| **Portfólio 3D** | Um quarto de 1985 modelado em código, com dois sistemas operacionais de mentira e viagem no tempo | React, Three.js |
-| **Lumora** | API de sincronização para um app de vídeo em celular, TV e computador: login, pareamento por QR code e salas em tempo real | NestJS, Prisma, PostgreSQL, Docker |
-| **Sulco** | Player de música para computador e Android com biblioteca sincronizada | Electron, React, Kotlin, Node, SQLite |
-| **Watts** | API REST de WhatsApp com várias sessões, feita para ser reaproveitada em outros sistemas | TypeScript |
-| **DevDesk** | Central de toque para a mesa, num ESP32 com tela, mais o app de computador | C, JavaScript |
+<p align="center">
+  <img height="170" src="https://github-readme-stats-tjsx.vercel.app/api?username=McPlayerV2&show_icons=true&count_private=true&include_all_commits=true&hide=stars,prs,issues&hide_rank=true&locale=pt-br&bg_color=0d1117&title_color=4c8dff&text_color=c9d1d9&icon_color=3fb950&border_color=30363d" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats-tjsx.vercel.app/api/top-langs/?username=McPlayerV2&layout=compact&count_private=true&include_all_commits=true&locale=pt-br&bg_color=0d1117&title_color=4c8dff&text_color=c9d1d9&icon_color=3fb950&border_color=30363d" alt="Linguagens mais usadas">
+</p>
 
-## Stack
-
-- **Backend:** TypeScript (Node.js, NestJS), PHP, SQL e NoSQL, Docker
-- **IA:** agentes, RAG, MCPs, extração de dados de documentos, voz
-- **Front-end e mobile:** React, Next.js, React Native, Kotlin, Swift
-- **3D:** Three.js, WebXR
-
-## Atividade
-
-Como os repositórios são privados, os números abaixo incluem as contribuições privadas.
-
-<div align="center">
-
-![Linguagens mais usadas](https://github-readme-stats-tjsx.vercel.app/api/top-langs/?username=McPlayerV2&layout=compact&count_private=true&include_all_commits=true)
-
-![Estatísticas do GitHub](https://github-readme-stats-tjsx.vercel.app/api?username=McPlayerV2&show_icons=true&count_private=true&include_all_commits=true&normal_rank=true)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=McPlayerV2&locale=pt_BR&background=0d1117&border=30363d&ring=4c8dff&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=4c8dff&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="Sequência de contribuições">
+</p>

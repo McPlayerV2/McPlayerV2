@@ -1,78 +1,46 @@
-#  Fala aí, eu sou o Victor Neves
+# Victor Neves
 
- Backend Developer focado em APIs, integrações e automação  
- Trabalhando com IA aplicada (agentes, MCPs, automações)  
- Stack principal: TypeScript (Node.js/NestJS), PHP, SQL  
+Desenvolvedor backend (T-shaped). Faço APIs, integrações bancárias e webhooks em NestJS e PHP, e hoje trabalho principalmente com **IA aplicada**: agentes, MCPs e automações ligadas a sistemas reais. Também entrego front-end, mobile (Kotlin e Swift) e 3D na web.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYkznYKA2RVyCTSZkJAkL6w%3D%3D) 
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)]()
+![Meu portfólio: um quarto de 1985 em 3D com um computador que liga](assets/portfolio.webp)
 
----
+## O que eu tenho feito
 
-##  Sobre mim
+Quase todo o meu código é privado (produtos da empresa e projetos pessoais em andamento), então este resumo faz o papel dos repositórios.
 
-Trabalho construindo APIs, integrações com serviços externos e sistemas bancários, além de lidar bastante com webhooks e automação de processos.
+### No trabalho
 
-Nos últimos tempos tenho focado bastante em IA aplicada — criando agentes, MCPs e automações integradas com sistemas reais, sempre tentando resolver problemas de forma prática.
+- **Gestão de loteamentos:** APIs, integrações bancárias e webhooks de um sistema web e mobile (PHP, NestJS, SQL).
+- **Cadastro por WhatsApp com IA:** a pessoa manda mensagem, foto ou PDF do documento e a IA extrai os dados e cria o cadastro no sistema (NestJS, OpenAI, MongoDB). Backend feito em equipe.
+- **Apresentação 3D de um residencial:** a torre, os andares e os apartamentos no navegador, com AR e VR (Three.js, WebXR). No ar em [3d.yachtresidence.com.br](https://3d.yachtresidence.com.br/).
 
-Também tenho experiência com front-end (TypeScript) e mobile (Kotlin e Swift), o que me ajuda a ter uma visão mais completa dos projetos.
+### Projetos pessoais
 
----
+| Projeto | O que é | Stack |
+|---|---|---|
+| **Luna** | Assistente pessoal por voz: app Android que conversa com um servidor próprio, com memória, lembretes e um modo dev | Kotlin, Python, Whisper, Claude |
+| **Trama** | Painel que transforma um enredo em série animada em capítulos, com roteiro, arte, voz e trilha feitos por IA | JavaScript, Electron, IAs locais |
+| **Portfólio 3D** | Um quarto de 1985 modelado em código, com dois sistemas operacionais de mentira e viagem no tempo | React, Three.js |
+| **Lumora** | API de sincronização para um app de vídeo em celular, TV e computador: login, pareamento por QR code e salas em tempo real | NestJS, Prisma, PostgreSQL, Docker |
+| **Sulco** | Player de música para computador e Android com biblioteca sincronizada | Electron, React, Kotlin, Node, SQLite |
+| **Watts** | API REST de WhatsApp com várias sessões, feita para ser reaproveitada em outros sistemas | TypeScript |
+| **DevDesk** | Central de toque para a mesa, num ESP32 com tela, mais o app de computador | C, JavaScript |
 
-##  Estatísticas
+## Stack
+
+- **Backend:** TypeScript (Node.js, NestJS), PHP, SQL e NoSQL, Docker
+- **IA:** agentes, RAG, MCPs, extração de dados de documentos, voz
+- **Front-end e mobile:** React, Next.js, React Native, Kotlin, Swift
+- **3D:** Three.js, WebXR
+
+## Atividade
+
+Como os repositórios são privados, os números abaixo incluem as contribuições privadas.
 
 <div align="center">
 
-![Linguagens do VN](https://github-readme-stats-tjsx.vercel.app/api/top-langs/?username=McPlayerV2&layout=compact&count_private=true&include_all_commits=true)
+![Linguagens mais usadas](https://github-readme-stats-tjsx.vercel.app/api/top-langs/?username=McPlayerV2&layout=compact&count_private=true&include_all_commits=true)
 
-![GitHub stats](https://github-readme-stats-tjsx.vercel.app/api?username=McPlayerV2&show_icons=true&count_private=true&include_all_commits=true&normal_rank=true&cache_seconds=60)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=McPlayerV2&cache_seconds=60)
+![Estatísticas do GitHub](https://github-readme-stats-tjsx.vercel.app/api?username=McPlayerV2&show_icons=true&count_private=true&include_all_commits=true&normal_rank=true)
 
 </div>
-
----
-
-##  Stack
-
-###  Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-
-###  Front-end
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-
-###  Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift)
-
-###  IA & Automação
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-000?style=for-the-badge)
-![Agents](https://img.shields.io/badge/AI_Agents-000?style=for-the-badge)
-
----
-
-
-##  O que eu curto fazer
-
-- Construir APIs e integrações que realmente funcionam  
-- Automatizar processos e reduzir trabalho manual  
-- Criar agentes de IA conectados com sistemas reais  
-- Resolver problemas complexos de forma simples  
-
----
-
-##  Foco atual
-
-- Backend + Integrações  
-- IA aplicada (Agentes, MCPs, automação)  
-- Sistemas escaláveis e bem organizados  
-
----
-
-##  Bora trocar ideia?
-
-Se quiser falar sobre backend, integrações ou IA, só chamar 

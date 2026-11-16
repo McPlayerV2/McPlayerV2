@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/victor-neves-8a492619b/"><img src="assets/btn-linkedin.svg" alt="LinkedIn de Victor Neves" height="40"></a>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,php,mysql,postgres,mongodb,docker,react,nextjs,kotlin,swift,threejs,python&theme=dark&perline=14" alt="TypeScript, Node.js, NestJS, PHP, MySQL, PostgreSQL, MongoDB, Docker, React, Next.js, Kotlin, Swift, Three.js, Python">
 </p>
 
